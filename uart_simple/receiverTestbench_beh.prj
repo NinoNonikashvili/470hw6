@@ -1,0 +1,4 @@
+verilog work "clk_div.v"
+verilog work "recceiver.v"
+verilog work "receiverTestbench.v"
+verilog work "C:/Xilinx/14.5/ISE_DS/ISE//verilog/src/glbl.v"

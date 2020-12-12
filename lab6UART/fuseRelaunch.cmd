@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUARTtest_isim_beh.exe" -prj "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUARTtest_beh.prj" "work.topUARTtest" "work.glbl" 

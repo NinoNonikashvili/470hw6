@@ -1,0 +1,77 @@
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf 
+bitgen -intstyle ise -f topUART.ut topUART.ncd 
+bitgen -intstyle ise -f topUART.ut topUART.ncd 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints6UART.ucf -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf -ucf constraints6UART.ucf 
+bitgen -intstyle ise -f topUART.ut topUART.ncd 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints6UART.ucf -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints6UART.ucf -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf -ucf constraints6UART.ucf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints6UART.ucf -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf -ucf constraints6UART.ucf 
+bitgen -intstyle ise -f topUART.ut topUART.ncd 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/470hw6/lab6UART/topUART.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints6UART.ucf -p xc3s100e-cp132-4 topUART.ngc topUART.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o topUART_map.ncd topUART.ngd topUART.pcf 
+par -w -intstyle ise -ol high -t 1 topUART_map.ncd topUART.ncd topUART.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topUART.twx topUART.ncd -o topUART.twr topUART.pcf -ucf constraints6UART.ucf 
+bitgen -intstyle ise -f topUART.ut topUART.ncd 

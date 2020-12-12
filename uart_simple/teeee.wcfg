@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/nino/Desktop/TsotneLab/470hw6/uart_simple/toptestbench_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="toptestbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/toptestbench/onebit_data" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">onebit_data</obj_property>
+      <obj_property name="ObjectShortName">onebit_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/parity" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">parity</obj_property>
+      <obj_property name="ObjectShortName">parity</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/led" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">led[7:0]</obj_property>
+      <obj_property name="ObjectShortName">led[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/slowclock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">slowclock</obj_property>
+      <obj_property name="ObjectShortName">slowclock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/btn0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">btn0</obj_property>
+      <obj_property name="ObjectShortName">btn0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/btn1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">btn1</obj_property>
+      <obj_property name="ObjectShortName">btn1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/btn2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">btn2</obj_property>
+      <obj_property name="ObjectShortName">btn2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/switch" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">switch[7:0]</obj_property>
+      <obj_property name="ObjectShortName">switch[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/uut2/Tx" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Tx[11:0]</obj_property>
+      <obj_property name="ObjectShortName">Tx[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/uut2/reg1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reg1</obj_property>
+      <obj_property name="ObjectShortName">reg1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/uut2/start" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/uut2/stop" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">stop[1:0]</obj_property>
+      <obj_property name="ObjectShortName">stop[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toptestbench/uut2/N" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">N[2:0]</obj_property>
+      <obj_property name="ObjectShortName">N[2:0]</obj_property>
+   </wvobject>
+</wave_config>
